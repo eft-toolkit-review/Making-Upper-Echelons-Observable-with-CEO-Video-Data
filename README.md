@@ -1,6 +1,6 @@
 **Making Upper Echelons Observable with CEO Video Data: An AI-Enabled Architecture for Measurement, Causal Discovery, and Theory Expansio**
 
-> **Development-stage research artifact (Stage 1).
+> Development-stage research artifact (Stage 1).
 > This repository documents a proposed scientific workflow and its first prototype
 > the measurement step for CEO trustworthiness,
 > together with the protocol machinery that fixes every analytic choice before it is used.
